@@ -6,5 +6,5 @@ Use the following configuration:
 
 ```
 connector.name=example-http
-metadata-uri=http://put-your-hostname-here/metadata.json
+metadata-uri=http://put-your-hostname-here:8080/metadata.json
 ```
